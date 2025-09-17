@@ -9,10 +9,10 @@ Hi, I'm **Priyal Khandelwal** 👋
 ---
 
 ## 🛠 Tech Stack:
-**Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS 
-**Backend:** Node.js, Express.js  
-**Databases:** MongoDB, MySQL  
-**Others:** Git, GitHub, REST APIs, Context API  
+- **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS 
+- **Backend:** Node.js, Express.js  
+- **Databases:** MongoDB, MySQL  
+- **Others:** Git, GitHub, REST APIs, Context API  
 
 ## 🌐 Connect with me:
 - 💼 [LinkedIn](https://www.linkedin.com/in/priyal-khandelwal-7735b52b4)
