@@ -2,8 +2,7 @@
 
 Hi, I'm **Priyal Khandelwal** 👋  
 🚀 Passionate **Full Stack Developer** | 4th Year B.Tech (IT) @ Acropolis Institute of Technology & Research  
-💡 Skilled in building responsive, user-friendly web applications.  
-📚 Currently improving my **DSA** and backend skills for campus placements.  
+💡 Skilled in building responsive, user-friendly web applications.   
 💼 Aspiring to join a dynamic tech team and contribute to impactful projects.  
 
 ---
