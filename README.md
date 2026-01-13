@@ -43,7 +43,7 @@ A passionate **B.Tech IT student (2022–2026)** who enjoys building scalable we
 
 
 ## 📊 GitHub Contributions
-![GitHub Contribution Graph](https://ghchart.rshah.org/Priyal2816)
+![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Priyal2816&theme=dark)
 
 ## 🧠 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Priyal__2807?theme=dark)
