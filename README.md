@@ -54,3 +54,10 @@ A passionate **B.Tech IT student (2022–2026)** who enjoys building scalable we
 
  ![](https://github-readme-stats.vercel.app/api?username=Priyal2816&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=Priyal2816&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyal2816&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 
+ ## 📊 GitHub Contributions
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Priyal2816&include_all_commits=true&count_private=true&hide=issues,prs,stars,rank&theme=dark" />
+</p>
+
+
