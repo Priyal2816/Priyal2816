@@ -1,4 +1,4 @@
-# Hi there, I'm Priyal 👋
+# Hi there, I'm Priyal Khandelwal 👋
 
 ## ✨ About Me
 
