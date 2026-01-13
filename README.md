@@ -41,10 +41,6 @@ A passionate **B.Tech IT student (2022–2026)** who enjoys building scalable we
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-
-## 📊 GitHub Contributions
-![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Priyal2816&theme=dark)
-
 ## 🧠 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Priyal__2807?theme=dark)
 
