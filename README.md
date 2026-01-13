@@ -42,24 +42,19 @@ A passionate **B.Tech IT student (2022–2026)** who enjoys building scalable we
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
+## 📊 GitHub Contributions
+![GitHub Contribution Graph](https://ghchart.rshah.org/Priyal2816)
+
+## 🧠 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/Priyal__2807?theme=dark)
+
 
 ## 🌐 Connect With Me
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyal-khandelwal-7735b52b4/)
 - [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/Priyal__2807/)
 
----
 
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyal2816&theme=dark"/>
-</p>
-
-## 🧠 LeetCode Stats
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Priyal__2807?theme=dark"/>
-</p>
 
 
 
