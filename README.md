@@ -53,7 +53,13 @@ A passionate **B.Tech IT student (2022–2026)** who enjoys building scalable we
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyal2816&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Priyal2816
+    &include_all_commits=true
+    &count_private=true
+    &hide=issues,prs,stars
+    &theme=dark
+    &hide_border=false" 
+  />
 </p>
-
 
