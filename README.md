@@ -52,11 +52,12 @@ A passionate **B.Tech IT student (2022–2026)** who enjoys building scalable we
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyal2816&include_all_commits=true&count_private=true&hide=issues,prs,stars&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Priyal2816&theme=dark"/>
 </p>
 
 ## 🧠 LeetCode Stats
 <p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=Priyal__2807&theme=dark"/>
+  <img src="https://leetcard.jacoblin.cool/Priyal__2807?theme=dark"/>
 </p>
+
 
