@@ -49,6 +49,8 @@ A passionate **B.Tech IT student (2022–2026)** who enjoys building scalable we
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyal-khandelwal-7735b52b4/)
 - [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/Priyal__2807/)
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:priyalkhandelwal28@gmail.com)
+
 
 
 
