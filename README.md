@@ -50,6 +50,7 @@ A passionate **B.Tech IT student (2022–2026)** who enjoys building scalable we
 
 ---
 
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Priyal2816&theme=dark"/>
@@ -59,5 +60,6 @@ A passionate **B.Tech IT student (2022–2026)** who enjoys building scalable we
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Priyal__2807?theme=dark"/>
 </p>
+
 
 
