@@ -42,10 +42,6 @@ A passionate **B.Tech IT student (2022–2026)** who enjoys building scalable we
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
-## 📊 GitHub Stats
-![GitHub Contribution Graph](https://ghchart.rshah.org/Priyal2816)
-
-
 ## 🧠 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Priyal__2807?theme=dark)
 
