@@ -44,8 +44,7 @@ A passionate **B.Tech IT student (2022–2026)** who enjoys building scalable we
 
 ## 📊 GitHub Contributions
 ![GitHub Contribution Graph](https://ghchart.rshah.org/Priyal2816)
-![GitHub Total Contributions](https://github-readme-stats.vercel.app/api?username=Priyal2816&show_icons=true&hide_title=true&count_private=false&include_all_commits=false&theme=dark&hide_border=true&show_total=true)
-
+![](https://github-readme-stats.vercel.app/api?username=Priyal2816&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=Priyal2816&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyal2816&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🧠 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Priyal__2807?theme=dark)
