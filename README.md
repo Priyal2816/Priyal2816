@@ -52,11 +52,7 @@ A passionate **B.Tech IT student (2022–2026)** who enjoys building scalable we
 
 ## 📈 Contribution Graph
 
-![Priyal Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyal2816&theme=github_dark)
-
-## 📈 Contribution Graph
-
-[![Priyal Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Priyal2816&bg_color=0d1117&color=ff6b6b&line=00ff00&point=00e5ff&area=true&hide_border=true)](https://github.com/Priyal2816)
+![Priyal Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyal2816&theme=tokyonight)
 
 
 ## 🧠 LeetCode Stats
